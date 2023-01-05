@@ -1,6 +1,6 @@
 # purescript-marionette-react-basic
 
-A [`react-basic-hooks`](https://github.com/megamaddu/purescript-react-basic-hooks) renderer for [`marionette`](https://github.com/thought2/purescript-marionette) that provides a simple `useMarionette` hook
+A [`marionette`](https://github.com/thought2/purescript-marionette) renderer for [`react-basic-hooks`](https://github.com/megamaddu/purescript-react-basic-hooks). Provides an easy to use `useMarionette` hook.
 
 
 ## Documentation
