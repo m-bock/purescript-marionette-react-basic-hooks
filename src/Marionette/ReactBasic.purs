@@ -61,11 +61,11 @@ type Config msg sta =
 -- |     { initialState: 0
 -- |     , controller: mkController myControl
 -- |     }
--- | pure $
--- |   R.div'
--- |     [ R.div' [ text $ show state ]
--- |     , R.button { onClick: handler_ $ act CountUp }
--- |     ]
+-- |   pure $
+-- |     R.div'
+-- |       [ R.div' [ text $ show state ]
+-- |       , R.button { onClick: handler_ $ act CountUp }
+-- |       ]
 -- | ```
 
 useMarionette
