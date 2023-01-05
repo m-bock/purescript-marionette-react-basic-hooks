@@ -6,27 +6,27 @@ in  upstream
 
   with marionette =
       { dependencies =
-  [ "aff"
-  , "arrays"
-  , "console"
-  , "datetime"
-  , "effect"
-  , "either"
-  , "enums"
-  , "foldable-traversable"
-  , "maybe"
-  , "newtype"
-  , "node-readline"
-  , "now"
-  , "ordered-collections"
-  , "prelude"
-  , "refs"
-  , "strings"
-  , "transformers"
-  , "tuples"
-  ]
+        [ "aff"
+        , "arrays"
+        , "console"
+        , "datetime"
+        , "effect"
+        , "either"
+        , "enums"
+        , "foldable-traversable"
+        , "maybe"
+        , "newtype"
+        , "node-readline"
+        , "now"
+        , "ordered-collections"
+        , "prelude"
+        , "refs"
+        , "strings"
+        , "transformers"
+        , "tuples"
+        ]
       , repo =
           "https://github.com/thought2/purescript-marionette.git"
       , version =
-          "next"
+          "v1.0.0"
       }
