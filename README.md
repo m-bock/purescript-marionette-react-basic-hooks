@@ -12,7 +12,7 @@ A [`marionette`](https://github.com/thought2/purescript-marionette) renderer for
 
 ```
 spago install marionette
-spago install marionette-react-basic
+spago install marionette-react-basic-hooks
 ```
 
 ```
