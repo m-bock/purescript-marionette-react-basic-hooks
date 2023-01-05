@@ -1,6 +1,6 @@
 
 {
-  description = "purescript-marionette-react-basic";
+  description = "purescript-marionette-react-basic-hooks";
 
   inputs.nixpkgs.url = "nixpkgs";
 

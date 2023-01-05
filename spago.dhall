@@ -1,4 +1,4 @@
-{ name = "purescript-marionette-react-basic"
+{ name = "purescript-marionette-react-basic-hooks"
 , dependencies =
   [ "aff"
   , "aff-promise"
